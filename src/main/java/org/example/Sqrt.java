@@ -1,5 +1,6 @@
 package org.example;
 
+
 public class Sqrt
 {
     double delta=0.00000001;
